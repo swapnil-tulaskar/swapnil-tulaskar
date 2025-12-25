@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Swapnil+Tulaskar%F0%9F%91%8B+Software+Test+Engineer%2C+Manual+%26+Automation+Tester+Passionate+about+Quality+Automation" alt="Typing SVG" /></a>">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Swapnil+Tulaskar%F0%9F%91%8B+Software+Test+Engineer%2C+Manual+%26+Automation+Tester+Passionate+about+Quality+Automation" alt="Typing SVG" />
 </p>
 
 ---
